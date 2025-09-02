@@ -4,6 +4,8 @@ const CUSTOMER_SITES = {
         name: '魔爪资源',
          api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'ikun',
+         api: 'https://ikunzyapi.com/api.php/provide/vod',
+        name: 'ikun',
         }
     };
 // 调用全局方法合并
