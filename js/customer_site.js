@@ -1,5 +1,5 @@
 const CUSTOMER_SITES = {
-    qiqi: {
+    mozhua: {
         api: 'https://mozhuazy.com/api.php/provide/vod',
         name: '魔爪资源',
      }
