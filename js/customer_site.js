@@ -2,6 +2,9 @@ const CUSTOMER_SITES = {
     mozhua: {
         api: 'https://mozhuazy.com/api.php/provide/vod',
         name: '魔爪资源',
+    ikun: {
+        api: 'https://ikunzyapi.com/api.php/provide/vod',
+        name: 'ikun',
      }
 };
 
