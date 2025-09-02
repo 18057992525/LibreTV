@@ -3,6 +3,10 @@ const CUSTOMER_SITES = {
         api: 'https://www.qiqidys.com/api.php/provide/vod',
         name: '七七资源',
     }
+      mozhua: {
+        api: 'https://www.qiqidys.com/api.php/provide/vod',
+        name: '魔爪',
+    }
 };
 
 // 调用全局方法合并
